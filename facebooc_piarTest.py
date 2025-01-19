@@ -27,8 +27,8 @@ driver.get("https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%
 
 
 # Copy - Paste the elements
-tell = str('+380669303253')
-password = str('1402200111')
+tell = str('+')
+password = str('')
 time.sleep(3)
 
 
